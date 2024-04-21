@@ -8,4 +8,15 @@ npm install
 npm start
 ```
 **When done, go to your web browser and navigate to `localhost`.**
+## Web version
+Use any browser that has flash player.
+Then you need the flash player.
+And you are done :D
+You can get all of these in Flashthemes's website (https://flashthemes.net/getflash) or directly through these links (In case Flashthemes goes down for whatever reason 💀):
+Chromium: https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/67.0.3396.87-3
+Chromium for Mac: https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/macos/x86_64/87.0.4280.88-1.1
+Waterfox Classic: https://classic.waterfox.net
+Pale Moon: https://www.palemoon.org/download.shtml
+Flash: https://cdn.cleanflash.org/CleanFlash_34.0.0.301_Installer.exe
+Flash for Mac OS X: https://drive.google.com/file/d/1hQCPNu3Q8OMQRVrthLh20eXMZ0HqvSW5/view?usp=sharing
 
