@@ -12,7 +12,9 @@ npm start
 Use any browser that has flash player.
 Then you need the flash player.
 And you are done :D
+
 You can get all of these in Flashthemes's website (https://flashthemes.net/getflash) or directly through these links (In case Flashthemes goes down for whatever reason 💀):
+
 Chromium: https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/67.0.3396.87-3
 
 Chromium for Mac: https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/macos/x86_64/87.0.4280.88-1.1
