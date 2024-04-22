@@ -1,5 +1,13 @@
-# Host On Evennode
-1. make a account
+# Host On Glitch
+1. make an account
+2. go to dashboard (if not already there)
+3. create a project (on top right)
+4. press import from GitHub
+5. put a URL of this project, GoAnimate Wrapper's or your own fork (from GitHub obviously)
+that's all :D
+
+# Host On Evennode (If you have/want to spend money afterwards ig)
+1. make an account
 2. make a node.js evennode
 3. open command prompt on your main pc (NOT EVENNODE) and run this command ``ssh-keygen -t rsa -C "your_email@example.com"``
 4. go on the folder you saved it in and open the .PUB file
