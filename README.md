@@ -9,7 +9,7 @@ npm start
 ```
 **When done, go to your web browser and navigate to `localhost`.**
 ## Web version
-Use any browser that has flash player.
+Use any browser that has a flash plugin.
 Then you need the flash player.
 And you are done :D
 
