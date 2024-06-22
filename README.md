@@ -3,7 +3,7 @@ This is a fork off of GoAnimate Wrapper that's meant to run on the web. Although
 ## How to Use
 You can use it locally or on a website. To install this locally though, install [Node.JS](https://nodejs.org/en/) then clone/download GoAnimate Wrapper (or this project but why would you bother).	Once done, unzip the folder, copy the path, and execute the following commands in your command prompt (where `{PATH}` is the folder path you copied):
 ```console
-cd "{PATH}\GoAnimate-Wrapper-master"
+cd "{PATH}\GoAnimate-Wrapper-master (or Fluff-Animate-master if you downloaded this project as a zip)"
 npm install
 npm start
 ```
