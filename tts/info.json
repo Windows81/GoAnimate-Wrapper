@@ -1,365 +1,5 @@
 {
 	"voices": {
-		"ella": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "ella22k",
-			"desc": "Ella"
-		},
-		"emilio1": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "emilioenglish22k",
-			"desc": "Emilio (English)"
-		},
-		"karen1": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "karen22k",
-			"desc": "Karen (Acapela)"
-		},
-		"kenny": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "kenny22k",
-			"desc": "Kenny"
-		},
-		"laura2": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "laura22k",
-			"desc": "Laura"
-		},
-		"josh": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "josh22k",
-			"desc": "Josh"
-		},
-		"micah": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "micah22k",
-			"desc": "Micah"
-		},
-		"nelly": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "nelly22k",
-			"desc": "Nelly"
-		},
-		"rod": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "rod22k",
-			"desc": "Rod"
-		},
-		"ryan": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "ryan22k",
-			"desc": "Ryan"
-		},
-		"saul": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "saul22k",
-			"desc": "Saul"
-		},
-		"scott": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "scott22k",
-			"desc": "Scott"
-		},
-		"sharon": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "sharon22k",
-			"desc": "Sharon"
-		},
-		"tracy": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "tracy22k",
-			"desc": "Tracy"
-		},
-		"valeria1": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "valeriaenglish22k",
-			"desc": "Valeria (English)"
-		},
-		"will": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "will22k",
-			"desc": "Will"
-		},
-		"willbadguy": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "willbadguy22k",
-			"desc": "Will (Bad Guy)"
-		},
-		"willfromafar": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "willfromafar22k",
-			"desc": "Will (From Afar)"
-		},
-		"willhappy": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "willhappy22k",
-			"desc": "Will (Happy)"
-		},
-		"willlittlecreature": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "willlittlecreature22k",
-			"desc": "Will (Little Creature)"
-		},
-		"willoldman": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "willoldman22k",
-			"desc": "Will (Old Man)"
-		},
-		"willsad": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "willsad22k",
-			"desc": "Will (Sad)"
-		},
-		"willupclose": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "willupclose22k",
-			"desc": "Will (Up Close)"
-		},
-		"graham": {
-			"country": "GB",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "graham22k",
-			"desc": "Graham"
-		},
-		"lucy": {
-			"country": "GB",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "lucy22k",
-			"desc": "Lucy"
-		},
-		"nizareng": {
-			"country": "GB",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "nizareng22k",
-			"desc": "Nizar"
-		},
-		"peter": {
-			"country": "GB",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "peter22k",
-			"desc": "Peter"
-		},
-		"peterhappy": {
-			"country": "GB",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "peterhappy22k",
-			"desc": "PeterHappy"
-		},
-		"petersad": {
-			"country": "GB",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "petersad22k",
-			"desc": "PeterSad"
-		},
-		"queenelizabeth": {
-			"country": "GB",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "queenelizabeth22k",
-			"desc": "Queen Elizabeth"
-		},
-		"rachel": {
-			"country": "GB",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "rachel22k",
-			"desc": "Rachel"
-		},
-		"rosie": {
-			"country": "GB",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "rosie22k",
-			"desc": "Rosie"
-		},
-		"rhona": {
-			"country": "GB",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "rhona22k",
-			"desc": "Rhona (Scottish)"
-		},
-		"deepa": {
-			"country": "IN",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "deepa22k",
-			"desc": "Deepa"
-		},
-		"liam": {
-			"country": "AU",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "liam22k",
-			"desc": "Liam"
-		},
-		"lisa1": {
-			"country": "AU",
-			"language": "en",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "lisa22k",
-			"desc": "Lisa (Acapela)"
-		},
-		"olivia1": {
-			"country": "AU",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "olivia22k",
-			"desc": "Olivia (Acapela)"
-		},
-		"tyler": {
-			"country": "AU",
-			"language": "en",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "tyler22k",
-			"desc": "Tyler"
-		},
-		"antonio": {
-			"country": "ES",
-			"language": "es",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "antonio22k",
-			"desc": "Antonio"
-		},
-		"ines1": {
-			"country": "ES",
-			"language": "es",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "ines22k",
-			"desc": "Ines"
-		},
-		"maria": {
-			"country": "ES",
-			"language": "es",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "maria22k",
-			"desc": "Maria"
-		},
-		"emilio": {
-			"country": "US",
-			"language": "es",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "emilio22k",
-			"desc": "Emilio (Spanish)"
-		},
-		"rodrigo": {
-			"country": "US",
-			"language": "es",
-			"gender": "M",
-			"source": "acapela",
-			"arg": "rodrigo22k",
-			"desc": "Rodrigo"
-		},
-		"rosa1": {
-			"country": "US",
-			"language": "es",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "rosa22k",
-			"desc": "Rosa (Acapela)"
-		},
-		"valeria": {
-			"country": "US",
-			"language": "es",
-			"gender": "F",
-			"source": "acapela",
-			"arg": "valeria22k",
-			"desc": "Valeria (Spanish)"
-		},
 		"amy3": {
 			"country": "GB",
 			"language": "en",
@@ -376,71 +16,15 @@
 			"arg": "Allison",
 			"desc": "Allison (Cepstral)"
 		},
-		"allison2": {
+			"allison_cepstral": {
 			"country": "US",
 			"language": "en",
 			"gender": "F",
-			"source": "watson",
-			"arg": "en-US_AllisonVoice",
-			"desc": "Allison (Watson)"
+			"source": "cepstral",
+			"arg": "Allison",
+			"desc": "Allison (Cepstral)"
 		},
-		"allisonv3": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "watson",
-			"arg": "en-US_AllisonV3Voice",
-			"desc": "AllisonV3 (Watson)"
-		},
-		"lisa": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "watson",
-			"arg": "en-US_LisaVoice",
-			"desc": "Lisa (Watson)"
-		},
-		"lisav3": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "watson",
-			"arg": "en-US_LisaV3Voice",
-			"desc": "LisaV3"
-		},
-		"michael": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "watson",
-			"arg": "en-US_MichaelVoice",
-			"desc": "Michael"
-		},
-		"michaelv3": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "watson",
-			"arg": "en-US_MichaelV3Voice",
-			"desc": "MichaelV3"
-		},
-		"kate1": {
-			"country": "GB",
-			"language": "en",
-			"gender": "F",
-			"source": "watson",
-			"arg": "en-GB_KateVoice",
-			"desc": "Kate (Watson)"
-		},
-		"katev3": {
-			"country": "GB",
-			"language": "en",
-			"gender": "F",
-			"source": "watson",
-			"arg": "en-GB_KateV3Voice",
-			"desc": "KateV3 (Watson)"
-		},
-		"amy2": {
+		"amy_cepstral": {
 			"country": "US",
 			"language": "en",
 			"gender": "F",
@@ -464,7 +48,7 @@
 			"arg": "Callie",
 			"desc": "Callie"
 		},
-		"charlie1": {
+		"charlie_cepstral": {
 			"country": "US",
 			"language": "en",
 			"gender": "M",
@@ -486,7 +70,7 @@
 			"gender": "M",
 			"source": "cepstral",
 			"arg": "Damien",
-			"desc": "Scary Voice (Damien)"
+			"desc": "Damien"
 		},
 		"david": {
 			"country": "US",
@@ -528,7 +112,7 @@
 			"arg": "Emily",
 			"desc": "Emily"
 		},
-		"linda1": {
+		"linda_cepstral": {
 			"country": "US",
 			"language": "en",
 			"gender": "F",
@@ -542,7 +126,15 @@
 			"gender": "M",
 			"source": "cepstral",
 			"arg": "Robin",
-			"desc": "Tween Girl (Robin)"
+			"desc": "Robin"
+		},
+    "allisontelephone": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"source": "cepstralfast",
+			"arg": "Allison-8kHz",
+			"desc": "Allison (Telephony and high pitched because funny)"
 		},
 		"shouty": {
 			"country": "US",
@@ -560,7 +152,7 @@
 			"arg": "Walter",
 			"desc": "Walter"
 		},
-		"william2": {
+		"william": {
 			"country": "US",
 			"language": "en",
 			"gender": "M",
@@ -600,13 +192,13 @@
 			"arg": "Vittoria",
 			"desc": "Vittoria"
 		},
-		"katrin2": {
+		"katrin_cepstral": {
 			"country": "DE",
 			"language": "de",
 			"gender": "F",
 			"source": "cepstral",
 			"arg": "Katrin",
-			"desc": "Katrin (VoiceForge)"
+			"desc": "Katrin (Cepstral)"
 		},
 		"matthias": {
 			"country": "DE",
@@ -615,54 +207,6 @@
 			"source": "cepstral",
 			"arg": "Matthias",
 			"desc": "Matthias"
-		},
-		"dieter": {
-			"country": "DE",
-			"language": "de",
-			"gender": "M",
-			"source": "watson",
-			"arg": "de-DE_DieterVoice",
-			"desc": "Dieter"
-		},
-		"dieterv3": {
-			"country": "DE",
-			"language": "de",
-			"gender": "M",
-			"source": "watson",
-			"arg": "de-DE-DieterV3Voice",
-			"desc": "DieterV3"
-		},
-		"enrique1": {
-			"country": "ES",
-			"language": "es",
-			"gender": "M",
-			"source": "watson",
-			"arg": "es-ES_EnriqueVoice",
-			"desc": "Enrique (Watson)"
-		},
-		"enriquev3": {
-			"country": "ES",
-			"language": "es",
-			"gender": "M",
-			"source": "watson",
-			"arg": "es-ES_EnriqueV3Voice",
-			"desc": "EnriqueV3 (Watson)"
-		},
-		"renee": {
-			"country": "FR",
-			"language": "fr",
-			"gender": "F",
-			"source": "watson",
-			"arg": "fr-FR_ReneeVoice",
-			"desc": "Renee"
-		},
-		"reneev3": {
-			"country": "FR",
-			"language": "fr",
-			"gender": "F",
-			"source": "watson",
-			"arg": "fr-FR_ReneeV3Voice",
-			"desc": "ReneeV3"
 		},
 		"isabelle": {
 			"country": "CA",
@@ -688,13 +232,21 @@
 			"arg": "Alejandra",
 			"desc": "Alejandra"
 		},
-		"miguel1": {
+		"miguel_cepstral": {
 			"country": "MX",
 			"language": "es",
 			"gender": "M",
 			"source": "cepstral",
 			"arg": "Miguel",
-			"desc": "Miguel (VoiceForge)"
+			"desc": "Miguel (Cepstral)"
+		},
+		"matthias": {
+			"country": "DE",
+			"language": "de",
+			"gender": "M",
+			"source": "cepstral",
+			"arg": "Matthias",
+			"desc": "Matthias"
 		},
 		"laila": {
 			"country": "SA",
@@ -791,6 +343,14 @@
 			"arg": [2, 19, 2],
 			"source": "vocalware",
 			"desc": "Magnus"
+		},
+    "grace2": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"source": "svox",
+			"arg": "usenglishfemale",
+			"desc": "Grace (SVOX)"
 		},
 		"saskia": {
 			"country": "NL",
@@ -1872,238 +1432,6 @@
 			"source": "vocalware",
 			"desc": "Somsi"
 		},
-		"callieq": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "CallieQ",
-			"desc": "CallieQ"
-		},
-		"conrad": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Conrad",
-			"desc": "Conrad"
-		},
-		"designerdave": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "DesignerDave",
-			"desc": "Designer Dave"
-		},
-		"diesel": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Diesel",
-			"desc": "Diesel"
-		},
-		"dog": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Dog",
-			"desc": "Dog"
-		},
-		"evilgenius": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "EvilGenius",
-			"desc": "Evil Genius"
-		},
-		"frank": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Frank",
-			"desc": "Frank"
-		},
-		"frenchfry": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "French-fry",
-			"desc": "French-Fry"
-		},
-		"gregory": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Gregory",
-			"desc": "Gregory"
-		},
-		"jerkface": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "JerkFace",
-			"desc": "Jerkface"
-		},
-		"jerseygirl": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "JerseyGirl",
-			"desc": "Jersey Girl"
-		},
-		"kayla": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "Kayla",
-			"desc": "Kayla"
-		},
-		"kevin": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Kevin",
-			"desc": "Kevin"
-		},
-		"kidaroo": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Kidaroo",
-			"desc": "Kidaroo"
-		},
-		"layo": {
-			"country": "NG",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "Layo",
-			"desc": "Layo"
-		},
-		"princess": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "Princess",
-			"desc": "Princess"
-		},
-		"ransomnote": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "RansomNote",
-			"desc": "Ransom Note"
-		},
-		"robot1": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "Robot",
-			"desc": "Robot"
-		},
-		"shygirl": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "ShyGirl",
-			"desc": "Shy Girl"
-		},
-		"susan": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "Susan",
-			"desc": "Susan (VoiceForge)"
-		},
-		"tamika": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "Tamika",
-			"desc": "Tamika"
-		},
-		"tophat": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "TopHat",
-			"desc": "Top-Hat"
-		},
-		"vixen": {
-			"country": "US",
-			"language": "en",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "Vixen",
-			"desc": "Vixen"
-		},
-		"vlad": {
-			"country": "RU",
-			"language": "ru",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Vlad",
-			"desc": "Vlad"
-		},
-		"warrenpeas": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "WarrenPeas",
-			"desc": "Warren Peas"
-		},
-		"wiseguy": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Wiseguy",
-			"desc": "Wiseguy"
-		},
-		"zach": {
-			"country": "US",
-			"language": "en",
-			"gender": "M",
-			"source": "voiceforge",
-			"arg": "Zach",
-			"desc": "Zach"
-		},
-		"katrin": {
-			"country": "US",
-			"language": "de",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "Katrin",
-			"desc": "Katrin"
-		},
-		"marta": {
-			"country": "MX",
-			"language": "es",
-			"gender": "F",
-			"source": "voiceforge",
-			"arg": "Marta",
-			"desc": "Marta"
-		},
 		"eric": {
 			"country": "US",
 			"language": "en",
@@ -2135,6 +1463,46 @@
 			"source": "readloud",
 			"arg": "/english/american/25-child-s-girl-voice-ivy.html",
 			"desc": "Ivy (Old)"
+		},
+		"salli_old": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"source": "readloud",
+			"arg": "/english/american/2-girl-s-voice-sally.html",
+			"desc": "Salli (Old)"
+		},
+		"geraint_old": {
+			"country": "GB",
+			"language": "en",
+			"gender": "M",
+			"source": "readloud",
+			"arg": "/english/welsh/21-male-voice-geraint.html",
+			"desc": "Geriant (Old)"
+		},
+		"gwyneth_old": {
+			"country": "GB",
+			"language": "en",
+			"gender": "M",
+			"source": "readloud",
+			"arg": "/english/welsh/23-female-voice-gwyneth.html",
+			"desc": "Gwyneth (Old)"
+		},
+		"nicole_old": {
+			"country": "AU",
+			"language": "en",
+			"gender": "F",
+			"source": "readloud",
+			"arg": "/english/australian/43-female-voice-nicole.html",
+			"desc": "Nicole (Old)"
+		},
+		"russell_old": {
+			"country": "AU",
+			"language": "en",
+			"gender": "M",
+			"source": "readloud",
+			"arg": "/english/australian/48-male-voice-russell.html",
+			"desc": "Russell (Old)"
 		},
 		"joey1": {
 			"country": "US",
@@ -3114,7 +2482,7 @@
 		},
 		"gwyneth": {
 			"country": "GB",
-			"language": "cy",
+			"language": "en",
 			"gender": "F",
 			"source": "nextup",
 			"arg": "Gwyneth",
@@ -3122,7 +2490,7 @@
 		},
 		"geraint": {
 			"country": "GB",
-			"language": "cy",
+			"language": "en",
 			"gender": "M",
 			"source": "nextup",
 			"arg": "Geraint",
@@ -3328,6 +2696,958 @@
 			"arg": "Astrid",
 			"desc": "Astrid"
 		},
+    "tiktok_en_us_001": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_us_001",
+            "source": "tiktok",
+            "desc": "Jessie"
+        },
+        "tiktok_en_us_006": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_006",
+            "source": "tiktok",
+            "desc": "Joey (TikTok)"
+        },
+        "tiktok_en_us_007": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_007",
+            "source": "tiktok",
+            "desc": "Professor"
+        },
+        "tiktok_en_us_009": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_009",
+            "source": "tiktok",
+            "desc": "Scientist"
+        },
+        "tiktok_en_us_010": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_010",
+            "source": "tiktok",
+            "desc": "Confidence"
+        },
+        "en_male_adam": {
+            "country": "AU",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_adam",
+            "source": "tiktok",
+            "desc": "Adam"
+        },
+        "en_female_sarah": {
+            "country": "AU",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_sarah",
+            "source": "tiktok",
+            "desc": "Sarah"
+        },
+        "en_male_dryw": {
+            "country": "AU",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_dryw",
+            "source": "tiktok",
+            "desc": "Dryw"
+        },
+        "en_male_narration": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_narration",
+            "source": "tiktok",
+            "desc": "Story Teller"
+        },
+        "en_male_funny": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_funny",
+            "source": "tiktok",
+            "desc": "Wacky"
+        },
+        "en_female_emotional": {
+            "country": "GB",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_emotional",
+            "source": "tiktok",
+            "desc": "Peaceful"
+        },
+        "en_male_mason": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_mason",
+            "source": "tiktok",
+            "desc": "Mason"
+        },		
+        "en_male_ryan": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_ryan",
+            "source": "tiktok",
+            "desc": "Ryan (TikTok)"
+        },		
+        "en_male_smith": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_smith",
+            "source": "tiktok",
+            "desc": "Smith"
+        },
+        "en_male_cody": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_cody",
+            "source": "tiktok",
+            "desc": "Serious"
+        },
+        "en_female_samc": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_samc",
+            "source": "tiktok",
+            "desc": "Empathetic"
+        },
+        "en_male_jarvis": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_jarvis",
+            "source": "tiktok",
+            "desc": "Alfred"
+        },
+        "en_male_santa_narration": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_santa_narration",
+            "source": "tiktok",
+            "desc": "Author"
+        },
+        "en_female_betty": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_betty",
+            "source": "tiktok",
+            "desc": "Bae"
+        },
+        "en_female_makeup": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_makeup",
+            "source": "tiktok",
+            "desc": "Beauty Guru"
+        },
+        "en_female_richgirl": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_richgirl",
+            "source": "tiktok",
+            "desc": "Bestie"
+        },
+        "en_female_amie": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_amie",
+            "source": "tiktok",
+            "desc": "Billy"
+        },
+        "en_female_amie": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_amie",
+            "source": "tiktok",
+            "desc": "Billy"
+        },
+        "en_male_jason": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_jason",
+            "source": "tiktok",
+            "desc": "Captain"
+        },
+        "en_male_chris": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_chris",
+            "source": "tiktok",
+            "desc": "Chris"
+        },
+        "en_male_miki": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_miki",
+            "source": "tiktok",
+            "desc": "Comedian"
+        },
+        "en_male_cupid": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_cupid",
+            "source": "tiktok",
+            "desc": "Cupid"
+        },
+        "en_female_shenna": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_shenna",
+            "source": "tiktok",
+            "desc": "Debutante"
+        },
+        "en_male_whitney": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_whitney",
+            "source": "tiktok",
+            "desc": "Designer"
+        },
+        "en_female_doll": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_doll",
+            "source": "tiktok",
+            "desc": "Doll"
+        },
+        "en_male_adam_elf": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_adam_elf",
+            "source": "tiktok",
+            "desc": "Elf"
+        },
+        "en_male_adrian": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_adrian",
+            "source": "tiktok",
+            "desc": "Foodie"
+        },
+        "en_male_jomboy": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_jomboy",
+            "source": "tiktok",
+            "desc": "Game On"
+        },
+        "en_female_ghost": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_ghost",
+            "source": "tiktok",
+            "desc": "Ghost"
+        },
+        "en_male_ghosthost": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_ghosthost",
+            "source": "tiktok",
+            "desc": "Ghost Host"
+        },
+        "en_male_david_gingerman": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_david_gingerman",
+            "source": "tiktok",
+            "desc": "GingerChime"
+        },
+        "en_female_grandma": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_grandma",
+            "source": "tiktok",
+            "desc": "Granny"
+        },
+        "en_male_ukneighbor": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_ukneighbor",
+            "source": "tiktok",
+            "desc": "Lord Cringe"
+        },
+        "en_male_wizard": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_wizard",
+            "source": "tiktok",
+            "desc": "Magician"
+        },
+        "en_male_trevor": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_trevor",
+            "source": "tiktok",
+            "desc": "Marty"
+        },
+        "en_male_deadpool": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_deadpool",
+            "source": "tiktok",
+            "desc": "Mr. GoodGuy"
+        },
+        "en_male_ukbutler": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_ukbutler",
+            "source": "tiktok",
+            "desc": "Mr. Meticulous"
+        },
+        "en_male_petercullen": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_petercullen",
+            "source": "tiktok",
+            "desc": "Optimus Prime"
+        },
+        "en_male_pirate": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_pirate",
+            "source": "tiktok",
+            "desc": "Pirate"
+        },
+        "en_male_santa": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_santa",
+            "source": "tiktok",
+            "desc": "Santa"
+        },
+        "en_male_santa_effect": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_santa_effect",
+            "source": "tiktok",
+            "desc": "Santa (w/effect)"
+        },
+        "en_male_corey_santa": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_corey_santa",
+            "source": "tiktok",
+            "desc": "Santa (Corey)"
+        },
+        "en_male_maxwell": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_maxwell",
+            "source": "tiktok",
+            "desc": "Stylist"
+        },
+        "en_female_pansino": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_pansino",
+            "source": "tiktok",
+            "desc": "Varsity"
+        },
+        "en_female_erika": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_erika",
+            "source": "tiktok",
+            "desc": "Victory"
+        },
+        "en_female_werewolf": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_female_werewolf",
+            "source": "tiktok",
+            "desc": "Werewolf"
+        },
+        "en_female_witch": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_witch",
+            "source": "tiktok",
+            "desc": "Witch"
+        },
+        "en_female_zombie": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_female_zombie",
+            "source": "tiktok",
+            "desc": "Zombie"
+        },
+        "en_male_grinch": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_grinch",
+            "source": "tiktok",
+            "desc": "Trickster"
+        },
+        "en_female_madam_leota": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_madam_leota",
+            "source": "tiktok",
+            "desc": "Madame Leota"
+        },
+        "en_male_ashmagic": {
+            "country": "AU",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_ashmagic",
+            "source": "tiktok",
+            "desc": "Ash Magic"
+        },
+        "en_male_olantekkers": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_olantekkers",
+            "source": "tiktok",
+            "desc": "Olantekkers"
+        },
+        "tiktok_en_uk_001": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_uk_001",
+            "source": "tiktok",
+            "desc": "Narrator"
+        },
+        "tiktok_en_uk_003": {
+            "country": "GB",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_uk_003",
+            "source": "tiktok",
+            "desc": "UK Male 2 (TikTok)"
+        },
+        "tiktok_en_au_001": {
+            "country": "AU",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_au_001",
+            "source": "tiktok",
+            "desc": "Metro"
+        },
+        "tiktok_en_au_002": {
+            "country": "AU",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_au_002",
+            "source": "tiktok",
+            "desc": "Smooth"
+        },
+        "tiktok_fr_001": {
+            "country": "FR",
+            "language": "fr",
+            "gender": "M",
+            "arg": "fr_001",
+            "source": "tiktok",
+            "desc": "French Male 1 (TikTok)"
+        },
+        "tiktok_fr_002": {
+            "country": "FR",
+            "language": "fr",
+            "gender": "M",
+            "arg": "fr_002",
+            "source": "tiktok",
+            "desc": "French Male 2 (TikTok)"
+        },
+        "tiktok_de_001": {
+            "country": "DE",
+            "language": "de",
+            "gender": "F",
+            "arg": "de_001",
+            "source": "tiktok",
+            "desc": "German Female (TikTok)"
+        },
+        "tiktok_de_002": {
+            "country": "DE",
+            "language": "de",
+            "gender": "M",
+            "arg": "de_002",
+            "source": "tiktok",
+            "desc": "German Male (TikTok)"
+        },
+        "it_male_m18": {
+            "country": "IT",
+            "language": "it",
+            "gender": "M",
+            "arg": "it_male_m18",
+            "source": "tiktok",
+            "desc": "Italian Male (TikTok)"
+        },
+        "tiktok_es_002": {
+            "country": "ES",
+            "language": "es",
+            "gender": "M",
+            "arg": "es_002",
+            "source": "tiktok",
+            "desc": "Spanish Male (TikTok)"
+        },
+        "tiktok_es_mx_002": {
+            "country": "MX",
+            "language": "es",
+            "gender": "M",
+            "arg": "es_mx_002",
+            "source": "tiktok",
+            "desc": "Álex"
+        },
+        "es_male_m3": {
+            "country": "ES",
+            "language": "es",
+            "gender": "M",
+            "arg": "es_male_m3",
+            "source": "tiktok",
+            "desc": "Julio"
+        },
+        "es_female_f6": {
+            "country": "ES",
+            "language": "es",
+            "gender": "F",
+            "arg": "es_female_f6",
+            "source": "tiktok",
+            "desc": "Alejandra"
+        },
+        "es_female_fp1": {
+            "country": "ES",
+            "language": "es",
+            "gender": "F",
+            "arg": "es_female_fp1",
+            "source": "tiktok",
+            "desc": "Mariana"
+        },
+        "es_mx_male_transformer": {
+            "country": "MX",
+            "language": "es",
+            "gender": "M",
+            "arg": "es_mx_male_transformer",
+            "source": "tiktok",
+            "desc": "Optimus Prime (Mexican)"
+        },
+        "es_mx_female_supermom": {
+            "country": "MX",
+            "language": "es",
+            "gender": "F",
+            "arg": "es_mx_female_supermom",
+            "source": "tiktok",
+            "desc": "Super Mamá"
+        },
+        "tiktok_br_003": {
+            "country": "BR",
+            "language": "pt",
+            "gender": "F",
+            "arg": "br_003",
+            "source": "tiktok",
+            "desc": "Júlia"
+        },
+        "tiktok_br_004": {
+            "country": "BR",
+            "language": "pt",
+            "gender": "F",
+            "arg": "br_004",
+            "source": "tiktok",
+            "desc": "Ana (TikTok)"
+        },
+        "tiktok_br_005": {
+            "country": "BR",
+            "language": "pt",
+            "gender": "M",
+            "arg": "br_005",
+            "source": "tiktok",
+            "desc": "Lucas"
+        },
+        "pt_female_lhays": {
+            "country": "PT",
+            "language": "pt",
+            "gender": "F",
+            "arg": "pt_female_lhays",
+            "source": "tiktok",
+            "desc": "Lhays Macedo"
+        },
+        "pt_female_laizza": {
+            "country": "PT",
+            "language": "pt",
+            "gender": "F",
+            "arg": "pt_female_laizza",
+            "source": "tiktok",
+            "desc": "Laizza"
+        },
+        "pt_male_transformer": {
+            "country": "PT",
+            "language": "pt",
+            "gender": "M",
+            "arg": "pt_male_transformer",
+            "source": "tiktok",
+            "desc": "Optimus Prime (Portuguese)"
+        },
+        "tiktok_id_001": {
+            "country": "ID",
+            "language": "id",
+            "gender": "F",
+            "arg": "id_001",
+            "source": "tiktok",
+            "desc": "Noor"
+        },
+        "id_female_icha": {
+            "country": "ID",
+            "language": "id",
+            "gender": "F",
+            "arg": "id_female_icha",
+            "source": "tiktok",
+            "desc": "Icha"
+        },
+        "id_male_darma": {
+            "country": "ID",
+            "language": "id",
+            "gender": "M",
+            "arg": "id_male_darma",
+            "source": "tiktok",
+            "desc": "Darma"
+        },
+        "id_male_putra": {
+            "country": "ID",
+            "language": "id",
+            "gender": "M",
+            "arg": "id_male_putra",
+            "source": "tiktok",
+            "desc": "Putra"
+        },
+        "tiktok_jp_001": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "F",
+            "arg": "jp_001",
+            "source": "tiktok",
+            "desc": "Miho"
+        },
+        "tiktok_jp_003": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "F",
+            "arg": "jp_003",
+            "source": "tiktok",
+            "desc": "Keiko"
+        },
+        "tiktok_jp_005": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "F",
+            "arg": "jp_005",
+            "source": "tiktok",
+            "desc": "Sakura (TikTok)"
+        },
+        "tiktok_jp_006": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "M",
+            "arg": "jp_006",
+            "source": "tiktok",
+            "desc": "Naoki"
+        },
+        "jp_male_osada": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "M",
+            "arg": "jp_male_osada",
+            "source": "tiktok",
+            "desc": "Morisuke"
+        },
+        "jp_male_matsuo": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "M",
+            "arg": "jp_male_matsuo",
+            "source": "tiktok",
+            "desc": "Matsuo"
+        },
+        "jp_female_machikoriiita": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "F",
+            "arg": "jp_female_machikoriiita",
+            "source": "tiktok",
+            "desc": "Machikoriiita"
+        },
+        "jp_male_matsudake": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "M",
+            "arg": "jp_male_matsudake",
+            "source": "tiktok",
+            "desc": "Matsudake"
+        },
+        "jp_male_shuichiro": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "M",
+            "arg": "jp_male_shuichiro",
+            "source": "tiktok",
+            "desc": "Shuichiro"
+        },
+        "jp_female_rei": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "F",
+            "arg": "jp_female_rei",
+            "source": "tiktok",
+            "desc": "Maruyama Rei"
+        },
+        "jp_male_hikakin": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "M",
+            "arg": "jp_male_hikakin",
+            "source": "tiktok",
+            "desc": "Hikakin"
+        },
+        "jp_female_yagishaki": {
+            "country": "JP",
+            "language": "ja",
+            "gender": "F",
+            "arg": "jp_female_yagishaki",
+            "source": "tiktok",
+            "desc": "Yagi Saki"
+        },
+        "tiktok_kr_002": {
+            "country": "KR",
+            "language": "ko",
+            "gender": "M",
+            "arg": "kr_002",
+            "source": "tiktok",
+            "desc": "Korean Male 1 (TikTok)"
+        },
+        "tiktok_kr_004": {
+            "country": "KR",
+            "language": "ko",
+            "gender": "M",
+            "arg": "kr_004",
+            "source": "tiktok",
+            "desc": "Korean Male 2 (TikTok)"
+        },
+        "tiktok_kr_003": {
+            "country": "KR",
+            "language": "ko",
+            "gender": "F",
+            "arg": "kr_003",
+            "source": "tiktok",
+            "desc": "Korean Female (TikTok)"
+        },
+        "ghostface": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_ghostface",
+            "source": "tiktok",
+            "desc": "Ghostface"
+        },
+        "chewbacca": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_chewbacca",
+            "source": "tiktok",
+            "desc": "Chewbacca"
+        },
+        "c3po": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_c3po",
+            "source": "tiktok",
+            "desc": "C3PO"
+        },
+        "stitch": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_stitch",
+            "source": "tiktok",
+            "desc": "Stitch"
+        },
+        "stormtrooper": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_stormtrooper",
+            "source": "tiktok",
+            "desc": "Stormtrooper"
+        },
+        "rocket": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_us_rocket",
+            "source": "tiktok",
+            "desc": "Rocket"
+        },
+        "tiktok_en_female_f08_salut_damour": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_f08_salut_damour",
+            "source": "tiktok",
+            "desc": "Cottagecore"
+        },
+        "en_male_sing_deep_jingle": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_sing_deep_jingle",
+            "source": "tiktok",
+            "desc": "Caroler"
+        },
+        "en_male_m03_classical": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_m03_classical",
+            "source": "tiktok",
+            "desc": "Classic Electric"
+        },
+        "tiktok_en_male_m03_lobby": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_m03_lobby",
+            "source": "tiktok",
+            "desc": "Jingle"
+        },
+        "tiktok_en_male_m03_sunshine_soon": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_m03_sunshine_soon",
+            "source": "tiktok",
+            "desc": "Toon Beat"
+        },
+        "en_female_f08_twinkle": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_f08_twinkle",
+            "source": "tiktok",
+            "desc": "Pop Lullaby"
+        },
+        "tiktok_en_female_f08_warmy_breeze": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_f08_warmy_breeze",
+            "source": "tiktok",
+            "desc": "Open Mic"
+        },
+        "tiktok_en_female_ht_f08_glorious": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_ht_f08_glorious",
+            "source": "tiktok",
+            "desc": "Euphoric"
+        },
+        "en_female_ht_f08_halloween": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_ht_f08_halloween",
+            "source": "tiktok",
+            "desc": "Opera"
+        },
+        "tiktok_en_male_sing_funny_it_goes_up": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_sing_funny_it_goes_up",
+            "source": "tiktok",
+            "desc": "Hypetrain"
+        },
+        "tiktok_en_male_m2_xhxs_m03_silly": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_m2_xhxs_m03_silly",
+            "source": "tiktok",
+            "desc": "Quirky Time"
+        },
+        "en_male_m2_xhxs_m03_christmas": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_m2_xhxs_m03_christmas",
+            "source": "tiktok",
+            "desc": "Cozy"
+        },
+        "tiktok_en_female_ht_f08_wonderful_world": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_ht_f08_wonderful_world",
+            "source": "tiktok",
+            "desc": "Melodrama"
+        },
+        "en_female_ht_f08_newyear": {
+            "country": "US",
+            "language": "en",
+            "gender": "F",
+            "arg": "en_female_ht_f08_newyear",
+            "source": "tiktok",
+            "desc": "NYE 2023"
+        },
+        "en_male_sing_funny_thanksgiving": {
+            "country": "US",
+            "language": "en",
+            "gender": "M",
+            "arg": "en_male_sing_funny_thanksgiving",
+            "source": "tiktok",
+            "desc": "Thanksgiving"
+        },
 		"liv": {
 			"country": "NO",
 			"language": "nb",
@@ -3335,166 +3655,6 @@
 			"source": "nextup",
 			"arg": "Liv",
 			"desc": "Liv"
-		},
-		"linda": {
-			"arg": "linda",
-			"desc": "Linda",
-			"gender": "F",
-			"country": "US",
-			"language": "en",
-			"source": "voicery"
-		},
-		"steven1": {
-			"arg": "steven",
-			"desc": "Steven (Voicery)",
-			"gender": "M",
-			"country": "US",
-			"language": "en",
-			"source": "voicery"
-		},
-		"katie": {
-			"arg": "katie",
-			"desc": "Katie",
-			"gender": "F",
-			"country": "US",
-			"language": "en",
-			"source": "voicery"
-		},
-		"luke": {
-			"arg": "luke",
-			"desc": "Luke",
-			"gender": "M",
-			"country": "AU",
-			"language": "en",
-			"source": "voicery"
-		},
-		"jason": {
-			"arg": "jason",
-			"desc": "Jason",
-			"gender": "M",
-			"country": "US",
-			"language": "en",
-			"source": "voicery"
-		},
-		"maya": {
-			"arg": "maya",
-			"desc": "Maya",
-			"gender": "F",
-			"country": "Indian",
-			"language": "en",
-			"source": "voicery"
-		},
-		"richard": {
-			"arg": "richard",
-			"desc": "Richard",
-			"gender": "M",
-			"country": "GB",
-			"language": "en",
-			"source": "voicery"
-		},
-		"samantha": {
-			"arg": "samantha",
-			"desc": "Samantha (Voicery)",
-			"gender": "F",
-			"country": "GB",
-			"language": "en",
-			"source": "voicery"
-		},
-		"matthew1": {
-			"arg": "matthew",
-			"desc": "Matthew",
-			"gender": "M",
-			"country": "US",
-			"language": "en",
-			"source": "voicery"
-		},
-		"chloe": {
-			"arg": "chloe",
-			"desc": "Chloe (Voicery)",
-			"gender": "F",
-			"country": "US",
-			"language": "en",
-			"source": "voicery"
-		},
-		"emma1": {
-			"arg": "emma",
-			"desc": "Emma (Voicery)",
-			"gender": "F",
-			"country": "CA",
-			"language": "en",
-			"source": "voicery"
-		},
-		"arno": {
-			"arg": "arno",
-			"desc": "Arno",
-			"gender": "M",
-			"country": "ZA",
-			"language": "en",
-			"source": "voicery"
-		},
-		"mieke": {
-			"arg": "mieke",
-			"desc": "Mieke",
-			"gender": "F",
-			"country": "ZA",
-			"language": "en",
-			"source": "voicery"
-		},
-		"gavin": {
-			"arg": "gavin",
-			"desc": "Gavin (Scottish)",
-			"gender": "M",
-			"country": "GB",
-			"language": "en",
-			"source": "voicery"
-		},
-		"mairi2": {
-			"arg": "mairi",
-			"desc": "Mairi",
-			"gender": "F",
-			"country": "GB",
-			"language": "en",
-			"source": "voicery"
-		},
-		"charlie": {
-			"arg": "charlie",
-			"desc": "Charlie (Voicery)",
-			"gender": "M",
-			"country": "GB",
-			"language": "en",
-			"source": "voicery"
-		},
-		"abigail": {
-			"arg": "abigail",
-			"desc": "Abigail",
-			"gender": "F",
-			"country": "GB",
-			"language": "en",
-			"source": "voicery"
-		},
-		"sean": {
-			"arg": "sean",
-			"desc": "Sean",
-			"gender": "M",
-			"country": "IE",
-			"language": "en",
-			"source": "voicery"
-		},
-		"mona": {
-			"arg": "mona",
-			"desc": "Mona",
-			"gender": "F",
-			"country": "IE",
-			"language": "en",
-			"source": "voicery"
-		},
-		"sebastian": {
-			"arg": "sebastian",
-			"desc": "Sebastian",
-			"gender": "M",
-			"country": "AU",
-			"language": "en",
-			"source": "voicery"
 		}
 	},
 	"languages": {
