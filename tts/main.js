@@ -115,7 +115,32 @@ module.exports = (voiceName, text) => {
                 break;
             }
 			case "voiceforge": {
-				console.log("user used voiceforge voice");
+				https.get("https://www.voiceforge.com/demo", (r) => {
+					const cookie = r.headers["set-cookie"];
+					var q = qs.encode({
+						voice: voice.arg,
+						voiceText: text,
+					});
+					var buffers = [];
+					https.get(
+						{
+							host: "www.voiceforge.com",
+							path: `/demos/createAudio.php?${q}`,
+							headers: { Cookie: cookie },
+						},
+						(r) => {
+							r.on("data", (b) => buffers.push(b));
+							r.on("end", () => {
+								const html = Buffer.concat(buffers);
+								const beg = html.indexOf('id="mp3Source" src="') + 20;
+								const end = html.indexOf('"', beg);
+								const loc = html.subarray(beg, end).toString();
+								get(`https://www.voiceforge.com${loc}`).then(res).catch(rej);
+							});
+						}
+					);
+				});
+				break;
 			}
       case "tiktok": {
 					const req = https.request(
